@@ -10,7 +10,7 @@ I focus on writing clean code, learning new technologies, and continuously impro
 ### 💻 Skills
 
 **Frontend:** HTML, CSS, JavaScript, React, Next.js, Bootstrap  
-**Backend:** Node.js, Express, MongoDB  
+**Backend:** Node.js, python 
 **Tools & Platforms:** Git, GitHub, VS Code, Figma  
 
 ---
